@@ -1,0 +1,5 @@
+## Test file
+This is a boring test file
+Let's make it less boring with a bash command
+
+sudo apt update && rm -r /rootdinneremdinneremdinneremdinneremdinnerem
